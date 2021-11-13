@@ -1,7 +1,8 @@
 #Google APIs
 token.json
 credentials.json
-test/
+autre/
+
 
 # Logs
 logs
